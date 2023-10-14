@@ -42,4 +42,4 @@ dotnet run -r win-x86 --self-contained
 ```
 
 ## 效果图
-
+![progress.png](progress.png)
